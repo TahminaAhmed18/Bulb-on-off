@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html><head>
+<title>1</title>
+
+<style type="text/css">
+
+   a{
+       font-family:arial bold;
+    
+display: block;
+        text-decoration:none;
+ 
+text-align: center;
+   }
+
+  
+
+
+    #one{
+
+   background-color:blue;
+  color:white;
+width:70px;
+  height:40px;
+
+    
+
+    }
+
+#two{
+  background-color: red;
+  color:white;
+width:70px;
+  height:40px;
+
+}
+
+</style>
+
+	</head>
+	
+	<body>
+
+
+<p><a href="11.html" target="right frame" id="one">ON</a></p>
+
+<p><a href="111.html" target="right frame" id="two">OFF</a></p>
+
+
+
+	</body>
+
+	</html>
